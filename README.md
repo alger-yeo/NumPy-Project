@@ -2,4 +2,4 @@
 
 A project involving solving various tasks related to Singapore's public housing and developing a program using NumPy.
 
-Please refer to jupyter notebook for the project,
+Please refer to jupyter notebook for the projec.
